@@ -6,4 +6,6 @@ Forget Me Not is an application that was made to assist Alziemer’s patients an
 ![3](https://github.com/user-attachments/assets/163821dd-b6d9-4cd3-a42b-ba8677b0b4c6)
 ![4](https://github.com/user-attachments/assets/cf3c32fb-9d42-41bd-90e5-7c4ed34d3c2f)
 ![6](https://github.com/user-attachments/assets/d4dc58f5-ba05-4f14-a4f8-0b93b86694e9)
+![My Process](/forget_me_not.pdf)
+
 [forget_me_not.pdf](https://github.com/user-attachments/files/18321739/forget_me_not.pdf)
